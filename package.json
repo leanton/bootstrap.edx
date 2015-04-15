@@ -1,0 +1,17 @@
+{
+  "name": "BSEdX",
+  "version": "1.0.0",
+  "description": "Using Gulp to run server for preview bootstrap",
+  "author": "Anton Le",
+  "private": true,
+  "engines": {
+  	"node": ">=0.10.35"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+  	"gulp": "^3.8.10",
+  	"browser-sync": "^2.6.4"
+  }
+}
